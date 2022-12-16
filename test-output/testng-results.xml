@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Click on Start Now Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+    </line>
+    <line>
+      <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //select[@id='response']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Next Step Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[@class='gem-c-button govuk-button gem-c-button--bottom-margin']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Continue Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Next Step Button[[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Continue Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Result Message [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\home-office-visa-check-nauman/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_20_37_27_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\home-office-visa-check-nauman/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_20_37_27_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\home-office-visa-check-nauman/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_20_37_27_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Smoke Suite" duration-ms="8967" started-at="2022-12-16T20:37:19 GMT" finished-at="2022-12-16T20:37:28 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@710726a3]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@710726a3]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Smoke Test" duration-ms="8967" started-at="2022-12-16T20:37:19 GMT" finished-at="2022-12-16T20:37:28 GMT">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@710726a3]" name="setUp" is-config="true" duration-ms="2272" started-at="2022-12-16T20:37:19 GMT" finished-at="2022-12-16T20:37:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@710726a3]" name="inIt" is-config="true" duration-ms="18" started-at="2022-12-16T20:37:21 GMT" finished-at="2022-12-16T20:37:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@710726a3]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="5556" started-at="2022-12-16T20:37:21 GMT" data-provider="dataset2" finished-at="2022-12-16T20:37:27 GMT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Work, academic visit or business]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[longer than 6 months]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Digital technology professional]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[You need a visa to work in health and care]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Start Now Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]]]>
+            </line>
+            <line>
+              <![CDATA[Select Nationality [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //select[@id='response']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Next Step Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[@class='gem-c-button govuk-button gem-c-button--bottom-margin']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Continue Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Next Step Button[[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Continue Button [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //button[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Result Message [[ChromeDriver: chrome on WINDOWS (cf315fca39ff95be7ad2778ba2abe39d)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\home-office-visa-check-nauman/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_20_37_27_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\nik_7\IdeaProjects\home-office-visa-check-nauman/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_20_37_27_GMT_2022.jpg><img src=C:\Users\nik_7\IdeaProjects\home-office-visa-check-nauman/test-output/html/aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonthsFri_Dec_16_20_37_27_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@710726a3]" name="tearDown" is-config="true" duration-ms="606" started-at="2022-12-16T20:37:27 GMT" finished-at="2022-12-16T20:37:28 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- Smoke Test -->
+  </suite> <!-- Smoke Suite -->
+</testng-results>
