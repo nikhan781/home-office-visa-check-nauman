@@ -18,7 +18,7 @@ public class ResultPage extends Utility {
     //This method will verify the result text
     public void confirmResultMessage(String expectedMessage) {
         Reporter.log("Confirm Result Message " + resultMessage);
-        Assert.assertTrue(getTextFromElement(resultMessage).equals("visa"), expectedMessage);
+        Assert.assertTrue(getTextFromElement(resultMessage).contains("visa"), expectedMessage);
         CustomListeners.test.log(Status.PASS, "Confirmed Result Message is " + resultMessage.getText());
     }
 
